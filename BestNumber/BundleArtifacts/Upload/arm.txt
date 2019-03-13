@@ -1,0 +1,7 @@
+MainPackage=E:\Projects\BestNumber\BestNumber 7.2\BestNumber\bin\ARM\Release\Upload\BestNumber_1.1.3.0_ARM.appx
+SymbolPackage=E:\Projects\BestNumber\BestNumber 7.2\BestNumber\bin\ARM\Release\Upload\BestNumber_1.1.3.0\BestNumber_1.1.3.0_ARM.appxsym
+ResourcePack=E:\Projects\BestNumber\BestNumber 7.2\BestNumber\_language-en.appx
+ResourcePack=E:\Projects\BestNumber\BestNumber 7.2\BestNumber\_scale-100.appx
+ResourcePack=E:\Projects\BestNumber\BestNumber 7.2\BestNumber\_scale-125.appx
+ResourcePack=E:\Projects\BestNumber\BestNumber 7.2\BestNumber\_scale-150.appx
+ResourcePack=E:\Projects\BestNumber\BestNumber 7.2\BestNumber\_scale-400.appx

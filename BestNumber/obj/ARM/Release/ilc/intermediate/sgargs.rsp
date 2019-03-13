@@ -1,0 +1,11 @@
+/out:"E:\Projects\BestNumber\BestNumber 7.2\BestNumber\obj\ARM\Release\ilc\intermediate\SgGenerated\\"
+/int:"E:\Projects\BestNumber\BestNumber 7.2\BestNumber\obj\ARM\Release\ilc\intermediate\\"
+/ref:"E:\Projects\BestNumber\BestNumber 7.2\BestNumber\obj\ARM\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"E:\Projects\BestNumber\BestNumber 7.2\BestNumber\obj\ARM\Release\ilc\intermediate\TransformedSRWR"
+/ref:"E:\Projects\BestNumber\BestNumber 7.2\BestNumber\obj\ARM\Release\ilc\in"
+/ref:"E:\Projects\BestNumber\BestNumber 7.2\BestNumber\obj\ARM\Release\ilc\in\\"
+/ref:"E:\Projects\BestNumber\BestNumber 7.2\BestNumber\obj\ARM\Release\ilc\in\\"
+/ref:"C:\Users\eduar\.nuget\packages\microsoft.net.native.compiler\1.6.2\tools\ARM\ilc\lib\Private\\"
+/ref:"E:\Projects\BestNumber\BestNumber 7.2\BestNumber\obj\ARM\Release\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"C:\Users\eduar\.nuget\packages\microsoft.net.native.compiler\1.6.2\tools\ARM\ilc\csc"

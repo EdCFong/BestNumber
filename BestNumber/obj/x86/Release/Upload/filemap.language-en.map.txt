@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"filemap.language-en"
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"E:\Projects\BestNumber\BestNumber 7.2\BestNumber\obj\x86\Release\Upload\filemap.language-en.pri"			"resources.pri"
+"E:\Projects\BestNumber\BestNumber 7.2\BestNumber\obj\x86\Release\PackageUploadLayout\Assets\en-US\ejemplo.png"			"Assets\en-US\ejemplo.png"

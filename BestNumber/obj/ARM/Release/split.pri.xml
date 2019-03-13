@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="65009EdCFongDeveloper.BestNumber" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>UNPLATED</AlternateForm>
+			<Language>ES-ES</Language>
+			<Scale>200</Scale>
+			<TargetSize>256,16,24,32,48</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="BestNumber.xr.xml" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Files/BestNumber.xr.xml">
+				<Candidate type="Path">
+					<Value>BestNumber.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="e_sqlite3.dll" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Files/e_sqlite3.dll">
+				<Candidate type="Path">
+					<Value>e_sqlite3.dll</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="GamePage.xbf" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Files/GamePage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="HelpPage.xbf" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Files/HelpPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="ejemplo.png" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Files/Assets/ejemplo.png">
+					<Candidate qualifiers="Language-ES-ES" isDefault="true" type="Path">
+						<Value>Assets\es-ES\ejemplo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="fondoGame4.png" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Files/Assets/fondoGame4.png">
+					<Candidate type="Path">
+						<Value>Assets\fondoGame4.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ip_icon_02_Back.png" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Files/Assets/ip_icon_02_Back.png">
+					<Candidate type="Path">
+						<Value>Assets\ip_icon_02_Back.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LargeTile.png" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Files/Assets/LargeTile.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LargeTile.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Files/Assets/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallTile.png" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Files/Assets/SmallTile.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SmallTile.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-48, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-32, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Files/Assets/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="web_hi_res_512.png" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Files/Assets/web_hi_res_512.png">
+					<Candidate type="Path">
+						<Value>Assets\web_hi_res_512.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Microsoft.Advertising.winmd" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Files/WinMetadata/Microsoft.Advertising.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Microsoft.Advertising.winmd</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Windows.winmd" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Resources">
+			<NamedResource name="4_digitos" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/4_digitos">
+				<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+					<Value>Deben ser 4 dígitos</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="4_toros" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/4_toros">
+				<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+					<Value> Felicidades, tienes 4 toros :)</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Accept" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/Accept">
+				<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+					<Value>Aceptar</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Adivinaste" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/Adivinaste">
+				<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+					<Value> Buen trabajo, el número es </Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Are_you_sure" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/Are_you_sure">
+				<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+					<Value>¿Seguro que desea salir de este juego y comenzar otro? Si lo abandona se contará como perdido.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Are_you_sure2" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/Are_you_sure2">
+				<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+					<Value>¿Seguro que desea salir de este juego? Si lo abandona se contará como perdido.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="bulls_and" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/bulls_and">
+				<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+					<Value> toros y </Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="bull_and" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/bull_and">
+				<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+					<Value> toro y </Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Cancel" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/Cancel">
+				<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+					<Value>Cancelar</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Continuar" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/Continuar">
+				<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+					<Value>Continuar</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="cow" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/cow">
+				<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+					<Value> vaca </Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="cows" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/cows">
+				<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+					<Value> vacas</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Estadisticas_letreroString" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/Estadisticas_letreroString">
+				<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+					<Value>Estadísticas</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Game_pageTitle" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/Game_pageTitle">
+				<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+					<Value>Juego</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="intentos" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/intentos">
+				<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+					<Value> intentos</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Juegos_ganados" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/Juegos_ganados">
+				<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+					<Value>Juegos ganados:    </Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Juegos_realizados" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/Juegos_realizados">
+				<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+					<Value>Juegos realizados: </Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Mejor_juego" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/Mejor_juego">
+				<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+					<Value>Mejor juego en  </Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Nivel" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/Nivel">
+				<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+					<Value>Nivel: </Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="No_comienza_con_0" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/No_comienza_con_0">
+				<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+					<Value>Nunca comienza con 0</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="No_letras" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/No_letras">
+				<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+					<Value>No incluya letras</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="No_repetir_digitos" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/No_repetir_digitos">
+				<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+					<Value>No se repiten dígitos</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="perdiste" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/perdiste">
+				<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+					<Value> Has superado los 15 intentos, </Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="perdiste2" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/perdiste2">
+				<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+					<Value>lo siento pero has perdido :(</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Por_ciento" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/Por_ciento">
+				<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+					<Value>Por ciento de juegos ganados: </Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Puntos" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/Puntos">
+				<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+					<Value>Puntos: </Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Puntos_acumulados" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/Puntos_acumulados">
+				<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+					<Value>Puntos acumulados: </Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Start_button" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/Start_button">
+				<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+					<Value>Presiona boton Comenzar</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="There_are" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/There_are">
+				<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+					<Value> Hay </Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="You_win" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/You_win">
+				<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+					<Value>Has ganado!</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="About">
+				<NamedResource name="Content" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/About/Content">
+					<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+						<Value>Acerca de este juego</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="About_pageTitle">
+				<NamedResource name="Text" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/About_pageTitle/Text">
+					<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+						<Value>Acerca de este juego</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="About_text">
+				<NamedResource name="Text" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/About_text/Text">
+					<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+						<Value> Felicidades, si ha abierto este juego es porque usted está interesado en los desafíos de la mente, es una persona inteligente. Este juego, basado en el clásico juego inglés de vacas y toros, consiste en adivinar un número de cuatro dígitos, este número nunca comienza por cero y sus dígitos siempre son diferentes, presionando el boton Probar se supone el número tecleado, y en la derecha se mostrará el resultado, si un dígito está presente y se encuentra en el lugar correcto es evaluada como un toro, si un dígito está presente pero se encuentra en un lugar equivocado es evaluada como una vaca. Tiene quince oportunidades para encontrar el número, que comience el desafío. Ejemplo:</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="BackButton">
+				<NamedResource name="Content" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/BackButton/Content">
+					<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+						<Value>Atrás</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Borrar">
+				<NamedResource name="Content" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/Borrar/Content">
+					<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+						<Value>Borrar</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="play">
+				<NamedResource name="Content" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/play/Content">
+					<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+						<Value>Jugar</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Start_button_text">
+				<NamedResource name="Content" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/Start_button_text/Content">
+					<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+						<Value>Comenzar un nuevo juego</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="TestButton_text">
+				<NamedResource name="Content" uri="ms-resource://65009EdCFongDeveloper.BestNumber/Resources/TestButton_text/Content">
+					<Candidate qualifiers="Language-ES-ES" isDefault="true" type="String">
+						<Value>Probar</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

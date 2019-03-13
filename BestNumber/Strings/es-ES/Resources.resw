@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="4_digitos" xml:space="preserve">
+    <value>Deben ser 4 dígitos</value>
+  </data>
+  <data name="4_toros" xml:space="preserve">
+    <value> Felicidades, tienes 4 toros :)</value>
+  </data>
+  <data name="Are_you_sure" xml:space="preserve">
+    <value>¿Seguro que desea salir de este juego y comenzar otro? Si lo abandona se contará como perdido.</value>
+  </data>
+  <data name="bulls_and" xml:space="preserve">
+    <value> toros y </value>
+  </data>
+  <data name="bull_and" xml:space="preserve">
+    <value> toro y </value>
+  </data>
+  <data name="cow" xml:space="preserve">
+    <value> vaca </value>
+  </data>
+  <data name="cows" xml:space="preserve">
+    <value> vacas</value>
+  </data>
+  <data name="intentos" xml:space="preserve">
+    <value> intentos</value>
+  </data>
+  <data name="Juegos_ganados" xml:space="preserve">
+    <value>Juegos ganados:    </value>
+  </data>
+  <data name="Juegos_realizados" xml:space="preserve">
+    <value>Juegos realizados: </value>
+  </data>
+  <data name="Mejor_juego" xml:space="preserve">
+    <value>Mejor juego en  </value>
+  </data>
+  <data name="Nivel" xml:space="preserve">
+    <value>Nivel: </value>
+  </data>
+  <data name="No_comienza_con_0" xml:space="preserve">
+    <value>Nunca comienza con 0</value>
+  </data>
+  <data name="No_repetir_digitos" xml:space="preserve">
+    <value>No se repiten dígitos</value>
+  </data>
+  <data name="perdiste" xml:space="preserve">
+    <value> Has superado los 15 intentos, </value>
+  </data>
+  <data name="Por_ciento" xml:space="preserve">
+    <value>Por ciento de juegos ganados: </value>
+  </data>
+  <data name="Puntos" xml:space="preserve">
+    <value>Puntos: </value>
+  </data>
+  <data name="Puntos_acumulados" xml:space="preserve">
+    <value>Puntos acumulados: </value>
+  </data>
+  <data name="Start_button" xml:space="preserve">
+    <value>Presiona boton Comenzar</value>
+  </data>
+  <data name="There_are" xml:space="preserve">
+    <value> Hay </value>
+  </data>
+  <data name="You_win" xml:space="preserve">
+    <value>Has ganado!</value>
+  </data>
+  <data name="About.Content" xml:space="preserve">
+    <value>Acerca de este juego</value>
+  </data>
+  <data name="About_text.Text" xml:space="preserve">
+    <value> Felicidades, si ha abierto este juego es porque usted está interesado en los desafíos de la mente, es una persona inteligente. Este juego, basado en el clásico juego inglés de vacas y toros, consiste en adivinar un número de cuatro dígitos, este número nunca comienza por cero y sus dígitos siempre son diferentes, presionando el boton Probar se supone el número tecleado, y en la derecha se mostrará el resultado, si un dígito está presente y se encuentra en el lugar correcto es evaluada como un toro, si un dígito está presente pero se encuentra en un lugar equivocado es evaluada como una vaca. Tiene quince oportunidades para encontrar el número, que comience el desafío. Ejemplo:</value>
+  </data>
+  <data name="play.Content" xml:space="preserve">
+    <value>Jugar</value>
+  </data>
+  <data name="Start_button_text.Content" xml:space="preserve">
+    <value>Comenzar un nuevo juego</value>
+  </data>
+  <data name="TestButton_text.Content" xml:space="preserve">
+    <value>Probar</value>
+  </data>
+  <data name="About_pageTitle.Text" xml:space="preserve">
+    <value>Acerca de este juego</value>
+  </data>
+  <data name="Are_you_sure2" xml:space="preserve">
+    <value>¿Seguro que desea salir de este juego? Si lo abandona se contará como perdido.</value>
+  </data>
+  <data name="Borrar.Content" xml:space="preserve">
+    <value>Borrar</value>
+  </data>
+  <data name="Estadisticas_letreroString" xml:space="preserve">
+    <value>Estadísticas</value>
+  </data>
+  <data name="Game_pageTitle" xml:space="preserve">
+    <value>Juego</value>
+  </data>
+  <data name="No_letras" xml:space="preserve">
+    <value>No incluya letras</value>
+  </data>
+  <data name="Accept" xml:space="preserve">
+    <value>Aceptar</value>
+  </data>
+  <data name="Adivinaste" xml:space="preserve">
+    <value> Buen trabajo, el número es </value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="Continuar" xml:space="preserve">
+    <value>Continuar</value>
+  </data>
+  <data name="BackButton.Content" xml:space="preserve">
+    <value>Atrás</value>
+  </data>
+  <data name="perdiste2" xml:space="preserve">
+    <value>lo siento pero has perdido :(</value>
+  </data>
+</root>

@@ -1,0 +1,8 @@
+/In:"E:\Projects\BestNumber\BestNumber 7.2\BestNumber\obj\ARM\Release\ilc\in"
+/Lib:"E:\Projects\BestNumber\BestNumber 7.2\BestNumber\obj\ARM\Release\ilc\in"
+/Lib:"C:\Users\eduar\.nuget\packages\microsoft.net.native.compiler\1.6.2\tools\ARM\ilc\lib\Private"
+/Lib:"C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.Advertising.Xaml\10.0\References\CommonConfiguration\neutral"
+/WinMD:"E:\Projects\BestNumber\BestNumber 7.2\BestNumber\obj\ARM\Release\ilc\in\WinMetadata\Microsoft.Advertising.winmd"
+/WinMD:"E:\Projects\BestNumber\BestNumber 7.2\BestNumber\obj\ARM\Release\ilc\in\WinMetadata\Windows.winmd"
+/RdXmlPath:"C:\Users\eduar\.nuget\packages\microsoft.net.native.compiler\1.6.2\tools\LibraryXML"
+/RunOnlyPreDR

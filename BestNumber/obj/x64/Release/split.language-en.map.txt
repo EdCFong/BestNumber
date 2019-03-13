@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-en"
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"E:\Projects\BestNumber\BestNumber 7.2\BestNumber\obj\x64\Release\split.language-en.pri"			"resources.pri"
+"E:\Projects\BestNumber\BestNumber 7.2\BestNumber\obj\x64\Release\PackageLayout\Assets\en-US\ejemplo.png"			"Assets\en-US\ejemplo.png"
